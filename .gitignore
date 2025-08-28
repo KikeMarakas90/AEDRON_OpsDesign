@@ -1,0 +1,64 @@
+# -----------------------------------------------------------------------------
+# General Operating System and IDE Files
+# -----------------------------------------------------------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (e.g., PyCharm)
+.idea/
+
+# -----------------------------------------------------------------------------
+# Python Environment and Byte-Compiled Files
+# -----------------------------------------------------------------------------
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build artifacts
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# -----------------------------------------------------------------------------
+# Logs, Temporary and Test Files
+# -----------------------------------------------------------------------------
+# Log files
+*.log
+*.out
+*.err
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Test/coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# -----------------------------------------------------------------------------
+# Specific Frameworks and Tools
+# -----------------------------------------------------------------------------
+# Environment variables
+.env
+.flaskenv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
