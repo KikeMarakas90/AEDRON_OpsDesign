@@ -1,0 +1,6 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.1
+
+# Optional: if you want structured logging later
+loguru==0.7.2
